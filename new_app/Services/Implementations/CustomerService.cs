@@ -1,6 +1,9 @@
 using HotelReservationSystem.Data;
 using HotelReservationSystem.Models.Domain;
 using HotelReservationSystem.Services.Contracts;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace HotelReservationSystem.Services.Implementations
 {
